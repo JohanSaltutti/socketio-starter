@@ -17,7 +17,7 @@ npm install
 
 # Then simply start your app
 node app.js
-
+```
 
 ## Author
 * **Johan SALTUTTI**
